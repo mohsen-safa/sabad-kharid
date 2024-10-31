@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#product-list {
+  margin-bottom: 20px;
+}
+#product-list h2{
+    color: rgb(21, 4, 148);
+}
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  color: chocolate;
+}
+
+#shopping-cart {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
+  color: midnightblue;
+}
+.add-to-cart{
+    color: rgb(1, 195, 40);
+}
